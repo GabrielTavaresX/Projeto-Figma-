@@ -1,9 +1,10 @@
+
 * {
     margin: 5;
     padding: 5;
     outline: 10;
     box-sizing: border-box;
-    font-family: 'Jaldi', sans-serif;
+    font-family: 'Khand', sans-serif;
     font-weight: 400;
 
 
@@ -61,9 +62,7 @@ header nav ul li a {
 
 }
 
-header nav ul li:hover {
-    background-color: honeydew;
-}
+
 
 footer {
 
@@ -71,6 +70,7 @@ footer {
     height: 3rem;
     border-radius: 100px;
     display: flex;
+    font-family:'khand', sans-serif;
 
 }
 
@@ -78,7 +78,7 @@ footer img {
     height: 100%;
     padding: 0.4rem;
     align-items: center;
-
+    font-family: 'khand',sans-serif;
 }
 
 main {
